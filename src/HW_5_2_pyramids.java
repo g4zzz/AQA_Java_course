@@ -21,7 +21,6 @@ public class HW_5_2_pyramids {
 //            System.out.println();
 //        }
 //        Задача №3
-
         for (int i = 9; i >= 0; i--) { //Prints i spaces at the beginning of each row
             for (int j = i; j < 9; j++) {
                 System.out.print("  ");
@@ -33,12 +32,12 @@ public class HW_5_2_pyramids {
                 System.out.print(j); //печатаем значения j от 0 до i с пробелом в одну строку
                 System.out.print(" ");
             }
-            System.out.println();
+            System.out.println();}
 
             }
 
 
         }
 
-    }
+
 

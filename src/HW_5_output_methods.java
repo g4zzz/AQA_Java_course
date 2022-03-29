@@ -6,6 +6,7 @@ public class HW_5_output_methods {
         System.out.println("Division of 2 numbers is " + HW_5_1.hwdivisn(8594, 56));
 
 
+
     }
     };
 
